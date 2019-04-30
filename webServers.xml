@@ -2,11 +2,11 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="a36eb1a7-d7cb-4ef5-a06d-0660cfd58fc8" name="SimmerChan" url="http://ai.danlu.netease.com">
-        <fileTransfer host="ai.danlu.netease.com" port="13262" privateKey="E:\work\huangshilei_rsa" accessType="SFTP" keyPair="true">
+        <fileTransfer host="ai.danlu.netease.com" port="10680" privateKey="E:\work\huangshilei_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="13262" />
+          <option name="port" value="10680" />
         </fileTransfer>
       </webServer>
     </option>
