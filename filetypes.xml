@@ -8,6 +8,7 @@
       <mapping ext="vec" type="PLAIN_TEXT" />
       <mapping ext="gd" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="owl" type="PLAIN_TEXT" />
       <mapping ext="utf8" type="PLAIN_TEXT" />
     </extensionMap>
