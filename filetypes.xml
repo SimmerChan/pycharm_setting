@@ -5,6 +5,7 @@
       <mapping pattern="configuration" type="JSON" />
       <mapping pattern="README" type="Markdown" />
       <mapping pattern="Dockerfile_base" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="vec" type="PLAIN_TEXT" />
       <mapping ext="gd" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
