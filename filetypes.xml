@@ -6,6 +6,7 @@
       <mapping pattern="README" type="Markdown" />
       <mapping pattern="Dockerfile_base" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="out_of_domain_jinyong.txt" type="PLAIN_TEXT" />
       <mapping pattern="元.txt" type="PLAIN_TEXT" />
       <mapping ext="vec" type="PLAIN_TEXT" />
       <mapping ext="gd" type="PLAIN_TEXT" />
