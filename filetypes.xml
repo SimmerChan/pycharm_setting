@@ -17,6 +17,7 @@
       <mapping ext="vocab" type="PLAIN_TEXT" />
       <mapping ext="owl" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping ext="tsf" type="PLAIN_TEXT" />
       <mapping ext="utf8" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
