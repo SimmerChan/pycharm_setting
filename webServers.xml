@@ -9,6 +9,14 @@
           <option name="port" value="18269" />
         </fileTransfer>
       </webServer>
+      <webServer id="a8fb4f5d-905d-4d55-9471-c6864d97422e" name="cuda10" url="http://ai.danlu.netease.com">
+        <fileTransfer host="ai.danlu.netease.com" port="13829" privateKey="E:\work\huangshilei_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="13829" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
