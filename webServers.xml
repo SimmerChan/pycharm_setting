@@ -9,22 +9,6 @@
           <option name="port" value="18269" />
         </fileTransfer>
       </webServer>
-      <webServer id="22f5cd5e-e814-4288-9430-222ca554150e" name="durlrl_cuda10" url="http://ai.danlu.netease.com">
-        <fileTransfer host="ai.danlu.netease.com" port="15448" privateKey="E:\work\huangshilei_rsa" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="15448" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="1cfc721c-07ac-4db1-bc05-031332dc82a8" name="pto" url="http://ai.danlu.netease.com">
-        <fileTransfer host="ai.danlu.netease.com" port="10681" privateKey="E:\work\huangshilei_rsa" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="10681" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
