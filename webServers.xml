@@ -2,19 +2,11 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="a36eb1a7-d7cb-4ef5-a06d-0660cfd58fc8" name="SimmerChan" url="http://ai.danlu.netease.com">
-        <fileTransfer host="ai.danlu.netease.com" port="18269" privateKey="E:\work\huangshilei_rsa" accessType="SFTP" keyPair="true">
+        <fileTransfer host="ai.danlu.netease.com" port="12514" privateKey="E:\fuxi\huangshilei_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="18269" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="a8fb4f5d-905d-4d55-9471-c6864d97422e" name="cuda10" url="http://ai.danlu.netease.com">
-        <fileTransfer host="ai.danlu.netease.com" port="13829" privateKey="E:\work\huangshilei_rsa" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="13829" />
+          <option name="port" value="12514" />
         </fileTransfer>
       </webServer>
     </option>
