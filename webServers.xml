@@ -9,6 +9,14 @@
           <option name="port" value="12514" />
         </fileTransfer>
       </webServer>
+      <webServer id="7030ab57-6dc7-46b3-9a80-5bcf5498eb5f" name="training_env" url="http://ai.danlu.netease.com">
+        <fileTransfer host="ai.danlu.netease.com" port="19823" privateKey="E:\fuxi\huangshilei_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="19823" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
